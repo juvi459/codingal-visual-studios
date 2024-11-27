@@ -1,0 +1,117 @@
+.heading{
+
+    background-color:cadetblue;
+    
+    }
+    
+    .introduction{
+    
+    background-color:lightblue;
+    
+    }
+    
+    .edit{
+    
+    color:white;
+    
+    }
+    
+    .cuisine{
+    
+    background-color:aquamarine;
+    
+    }
+    
+    .footer{
+    
+    background-color:grey;
+    
+    }.heading{
+    
+    background-color:cadetblue;
+    
+    }
+    
+    .introduction{
+    
+    background-color:lightblue;
+    
+    }
+    
+    .list{
+
+        
+
+    }
+
+    .title{
+    
+    text-color:white;
+    
+    }
+    
+    .cuisine{
+    
+    background-color:aquamarine;
+    
+    }
+    
+    .footer{
+    
+    background-color:grey;
+    
+    }
+
+
+
+    nav {
+        background-color: darkslategray;
+        padding: 10px; 
+
+    }
+
+    .customul > ul{
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+
+    }
+
+    .customul > ul > li{
+        float: left;
+    }
+
+    .customul > ul > li a{
+        display: block;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+
+    .customul > ul > li a:hover {
+        background-color:purple;
+        color: aliceblue;
+    }
+
+    .introduction h2{
+        font-size: 40px;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;
+        padding-top: 40px;
+    }
+
+    .introduction p{
+        font-size: medium;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    .content p{
+        font-size: medium;
+        font-family: 'Courier New', Courier, monospace; 
+    }
+   .heading h1{
+    font-size: 50px;
+    font-family: fantasy;
+    text-align: center;
+    padding: 20px;
+   }
